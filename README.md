@@ -32,15 +32,9 @@ Minimal new physics: Z' boson (TeV) plus dark photon (sub-GeV). Z' handles EW+fl
 ## Files
 
 analysis.ipynb — Jupyter notebook with code, data, analysis, and figures
-
-writeup.md — 2-page summary
-
-writeup.pdf — PDF version
-
-figures/ — Key plots:
+Key plots:
   Figure_1_heatmap.png (model × anomaly scores)
   Figure_2_clustering.png (anomaly clustering network)
-
 
 ## Notes
 
